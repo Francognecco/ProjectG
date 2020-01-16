@@ -1,0 +1,8 @@
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\Users\gnecc\source\repos\ProjectGlobant\Services\obj\Debug\netcoreapp3.1\Services.pdb

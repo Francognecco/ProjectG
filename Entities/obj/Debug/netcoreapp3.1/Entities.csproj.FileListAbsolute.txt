@@ -1,0 +1,10 @@
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\gnecc\source\repos\ProjectGlobant\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
